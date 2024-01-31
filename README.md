@@ -1,4 +1,4 @@
-[![MasterHead](https://media1.tenor.com/m/ItlVfQ5tMv0AAAAd/lofi-music-lofiartwork.gif)]
+ya tayssir how do i center  this![MasterHead](https://media1.tenor.com/m/ItlVfQ5tMv0AAAAd/lofi-music-lofiartwork.gif)
 <h1 align="center">Hi 👋, I'm Sbai M. Aziz</h1>
 <h3 align="center">A Passionate Computer Science Engineering Student</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/ba114d240ed9d19e927a725cc599b038/tumblr_o8ol0qfp3d1r4gsiio1_1280.gifv">
